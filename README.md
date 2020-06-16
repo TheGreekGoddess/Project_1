@@ -3,9 +3,9 @@
 A group of world renowned data scientists took upon themselves to analyze the correlations between hurricanes and impacting factors.
 
 ### The study hopes to provide information regarding:
-The onset of hurricane season and impacting factors
-When do we usually see named storms with the letter “C”?
-Understanding the hurricane patterns over the past few years
+ The onset of hurricane season and impacting factors
+ When do we usually see named storms with the letter “C”?
+ Understanding the hurricane patterns over the past few years
 What is the year on year change in onsets
 Demographics of hurricane hit areas:
 Property values
